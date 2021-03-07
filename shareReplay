@@ -1,3 +1,7 @@
-[
- {'id':'m1','description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!','name':'Mobile','price':15000,'type':'mobile','imgUrl':'https://i.ytimg.com/vi/9I6GR78fo0o/maxresdefault.jpg'}
-]
+{
+'id':'m1',
+'description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!',
+'name':'Mobile','price':15000,
+'type':'mobile',
+'imgUrl':'https://i.ytimg.com/vi/9I6GR78fo0o/maxresdefault.jpg'
+}
