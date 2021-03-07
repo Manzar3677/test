@@ -1,7 +1,26 @@
-{
-'id':'m1',
-'description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!',
-'name':'Mobile','price':15000,
-'type':'mobile',
-'imgUrl':'https://i.ytimg.com/vi/9I6GR78fo0o/maxresdefault.jpg'
-}
+[
+    {
+      'id':'m1',
+      'description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!',
+      'name':'Narzo 20 Pro',
+      'price':15000,
+      'type':'mobile',
+      'imgUrl':'https://i.ytimg.com/vi/9I6GR78fo0o/maxresdefault.jpg'
+    },
+    {
+      'id':'m2',
+      'description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!',
+      'name':'Realme 7',
+      'price':10000,
+      'type':'mobile',
+      'imgUrl':'https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/03/full/1599123973-3584.jpg&width=1200'
+    },
+    {
+      'id':'m3',
+      'description':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, fuga!',
+      'name':'Realme 7 Pro',
+      'price':12000,
+      'type':'mobile',
+      'imgUrl':'https://i.ytimg.com/vi/7ueyZGTBamQ/maxresdefault.jpg'
+    }
+  ]
