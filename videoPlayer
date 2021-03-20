@@ -5,7 +5,8 @@
 		"vidTitle": "Sony Music India",
 		"vidView": "91M views•",
 		"vidDate": "2 weeks ago",
-		"videoUrl":"https://www.youtube.com/embed/DKj5m9cSMZs"
+		"videoUrl":"https://www.youtube.com/embed/DKj5m9cSMZs",
+		"vidName":"NadiyonPaarRoohi"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/6ENLTZPwFZc/maxresdefault.jpg",
@@ -14,7 +15,8 @@
 		"vidTitle": "T-series Music",
 		"vidView": "44,933,076 views•",
 		"vidDate": "10 Mar 2021",
-		"videoUrl":"https://www.youtube.com/embed/94o73K5T0MQ"
+		"videoUrl":"https://www.youtube.com/embed/94o73K5T0MQ",
+		"vidName":"HarFunnMaula"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/jh66Pjtqr4k/maxresdefault.jpg",
@@ -23,7 +25,8 @@
 		"vidTitle": "T-series Music",
 		"vidView": "29,447,318 views•",
 		"vidDate": "21 Nov 2020",
-		"videoUrl":"https://www.youtube.com/embed/jh66Pjtqr4k"
+		"videoUrl":"https://www.youtube.com/embed/jh66Pjtqr4k",
+		"vidName":"LUDOAabaadBarbaad"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/Grr0FlC8SQA/maxresdefault.jpg",
@@ -32,7 +35,8 @@
 		"vidTitle": "T-series Music",
 		"vidView": "103,407,947 views•",
 		"vidDate": "17 Apr 2019",
-		"videoUrl":"https://www.youtube.com/embed/Grr0FlC8SQA"
+		"videoUrl":"https://www.youtube.com/embed/Grr0FlC8SQA",
+		"vidName":"KalankTitleTrack"
 	},
 	{
 		"imgUrl": "https://miro.medium.com/max/1000/0*4xKOT0wtZ-BQyPvL.jpg",
@@ -41,7 +45,8 @@
 		"vidTitle": "Technical Babaji",
 		"vidView": "26,852 views•",
 		"vidDate": "26 Jan 2020",
-		"videoUrl":"https://www.youtube.com/embed/BZ_91HKzNDM"
+		"videoUrl":"https://www.youtube.com/embed/BZ_91HKzNDM",
+		"vidName":"AngularJWTauthentication"
 	},
 	{
 		"imgUrl": "https://www.besanttechnologies.com/wp-content/uploads/2019/12/what-is-angular.jpg",
@@ -50,7 +55,8 @@
 		"vidTitle": "Andy Sterkowitz",
 		"vidView": "180,978 views•",
 		"vidDate": "25 Feb 2019",
-		"videoUrl":"https://www.youtube.com/embed/VAkio68d51A"
+		"videoUrl":"https://www.youtube.com/embed/VAkio68d51A",
+		"vidName":"AngularForBeginners"
 	},
 	{
 		"imgUrl": "https://cdn.spaceotechnologies.com/wp-content/uploads/2020/10/Angular-vs-React.jpg",
@@ -59,7 +65,8 @@
 		"vidTitle": "Andy Sterkowitz",
 		"vidView": "190,183 views•",
 		"vidDate": "4 Feb 2018",
-		"videoUrl":"https://www.youtube.com/embed/pVbcAafEzDc"
+		"videoUrl":"https://www.youtube.com/embed/pVbcAafEzDc",
+		"vidName":"AngularVSReact"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/Hfr-e13av5I/maxresdefault.jpg",
@@ -68,7 +75,8 @@
 		"vidTitle": "Ben Awad",
 		"vidView": "158,493 views•",
 		"vidDate": "5 Jun 2020",
-		"videoUrl":"https://www.youtube.com/embed/Hfr-e13av5I"
+		"videoUrl":"https://www.youtube.com/embed/Hfr-e13av5I",
+		"vidName":"AngularFremwork"
 	},
 	{
 		"imgUrl": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/10/901444-thekapilsharmashow-online.jpg",
@@ -77,7 +85,8 @@
 		"vidTitle": "The kapil Sharma Show",
 		"vidView": "6,226,454 views•",
 		"vidDate": "29 Dec 2020",
-		"videoUrl":"https://www.youtube.com/embed/En1QiC3hFlo"
+		"videoUrl":"https://www.youtube.com/embed/En1QiC3hFlo",
+		"vidName":"kapilShowEp170"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/P-xM_zftYTQ/maxresdefault.jpg",
@@ -86,7 +95,8 @@
 		"vidTitle": "The kapil Sharma Show",
 		"vidView": "75,673,664 views•",
 		"vidDate": "16 Sept 2017",
-		"videoUrl":"https://www.youtube.com/embed/P-xM_zftYTQ"
+		"videoUrl":"https://www.youtube.com/embed/P-xM_zftYTQ",
+		"vidName":"kapilShowMashoorGulati"
 	},
 	{
 		"imgUrl": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/11/07/936077-krushna-abhishek-the-kapil-sharma-show.png",
@@ -95,7 +105,8 @@
 		"vidTitle": "The kapil Sharma Show",
 		"vidView": "408,360 views•",
 		"vidDate": "17 Mar 2021",
-		"videoUrl":"https://www.youtube.com/embed/6LnIgsxFcIU"
+		"videoUrl":"https://www.youtube.com/embed/6LnIgsxFcIU",
+		"vidName":"kapilShowKrushna"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/YjKjUbPfVF8/maxresdefault.jpg",
@@ -104,7 +115,8 @@
 		"vidTitle": "The kapil Sharma Show",
 		"vidView": "351,327 views•",
 		"vidDate": "14 Mar 2021",
-		"videoUrl":"https://www.youtube.com/embed/YjKjUbPfVF8"
+		"videoUrl":"https://www.youtube.com/embed/YjKjUbPfVF8",
+		"vidName":"kapilShowAnilKapoorDuplicate"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/L2QIz4lyYk0/maxresdefault.jpg",
@@ -113,7 +125,8 @@
 		"vidTitle": "SET India",
 		"vidView": "37,665,834 views•",
 		"vidDate": "29 Nov 2020",
-		"videoUrl":"https://www.youtube.com/embed/L2QIz4lyYk0"
+		"videoUrl":"https://www.youtube.com/embed/L2QIz4lyYk0",
+		"vidName":"IndiaBestDancerTigerAndVartika"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/jbVG1DbuSMQ/maxresdefault.jpg",
@@ -122,7 +135,8 @@
 		"vidTitle": "SET India",
 		"vidView": "13,964,377 views•",
 		"vidDate": "20 Nov 2020",
-		"videoUrl":"https://www.youtube.com/embed/jbVG1DbuSMQ"
+		"videoUrl":"https://www.youtube.com/embed/jbVG1DbuSMQ",
+		"vidName":"IndiaBestDancerShwetha"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/-BOpEuKcJ3Q/maxresdefault.jpg",
@@ -131,7 +145,8 @@
 		"vidTitle": "SET India",
 		"vidView": "28,699,486 views•",
 		"vidDate": "7 Sept 2020",
-		"videoUrl":"https://www.youtube.com/embed/-BOpEuKcJ3Q"
+		"videoUrl":"https://www.youtube.com/embed/-BOpEuKcJ3Q",
+		"vidName":"IndiaBestDancerPratikAndShweta"
 	},
 	{
 		"imgUrl": "https://i.ytimg.com/vi/28nTmG2Olbw/maxresdefault.jpg",
@@ -140,6 +155,7 @@
 		"vidTitle": "SET India",
 		"vidView": "35,988,732 views•",
 		"vidDate": "7 Sept 2020",
-		"videoUrl":"https://www.youtube.com/embed/28nTmG2Olbw"
+		"videoUrl":"https://www.youtube.com/embed/28nTmG2Olbw",
+		"vidName":"IndiaBestDancerShaktiAndRaghav"
 	}
 ]
